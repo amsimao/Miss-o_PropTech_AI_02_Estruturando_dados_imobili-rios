@@ -1,0 +1,8 @@
+ID;Endereco;Quartos;Area;Preco;ID_Bairro;Data_Coleta;ID_bairro;nome;zona;indice_segurança
+2;Av. Brasil, 1783;1;34;4890;3;21/02/2026;3;Vila Madalena;Leste;7.8
+3;Rua A, 12;2;108;3358;8;22/02/2026;8;Tatuapé;Leste;7.5
+7;Rua A, 1382;1;74;4775;1;18/02/2026;1;centro;Central;6.5
+8;Rua XV, 86;1;96;4584;10;12/02/2026;10;Lapa;Oeste;7.2
+14;Rua Augusta, 1891;1;;4844;4;29/01/2026;4;Mooca;Leste;7.1
+15;Rua das Flores, 225;3;38;3545;3;05/02/2026;3;Vila Madalena;Leste;7.8
+18;Av. Brasil, 1619;2;92;3895;3;16/02/2026;3;Vila Madalena;Leste;7.8

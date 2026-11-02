@@ -1,0 +1,16 @@
+ID;Endereco;Quartos;Area;Preco;ID_Bairro;Data_Coleta;ID_bairro;nome;zona;indice_segurança
+1;Rua XV, 1381;4;139;1621;1;22/02/2026;1;centro;Central;6.5
+3;Rua A, 12;2;108;3358;8;22/02/2026;8;Tatuapé;Leste;7.5
+4;Alameda Santos, 1756;2;;1444;1;21/02/2026;1;centro;Central;6.5
+6;Av. Brasil, 532;4;141;2095;4;22/02/2026;4;Mooca;Leste;7.1
+9;Rua XV, 1496;1;;1309;2;30/01/2026;2;Jardins;Sul;9.2
+10;Rua XV, 823;1;91;2961;10;05/02/2026;10;Lapa;Oeste;7.2
+11;Alameda Santos, 1111;1;;2704;4;12/02/2026;4;Mooca;Leste;7.1
+12;Rua Augusta, 833;2;73;2539;6;20/02/2026;6;Pinhiros;Oeste;8.5
+13;Rua XV, 1636;3;82;1387;9;02/02/2026;9;Santo Amaro;Sul;6.8
+15;Rua das Flores, 225;3;38;3545;3;05/02/2026;3;Vila Madalena;Leste;7.8
+16;Rua Augusta, 604;4;56;2713;4;05/02/2026;4;Mooca;Leste;7.1
+17;Rua XV, 1548;2;44;2073;7;03/02/2026;7;Itaquera;Leste;5.5
+18;Av. Brasil, 1619;2;92;3895;3;16/02/2026;3;Vila Madalena;Leste;7.8
+19;Rua A, 1874;2;49;1995;7;27/01/2026;7;Itaquera;Leste;5.5
+20;Rua das Flores, 1680;1;;2882;2;10/02/2026;2;Jardins;Sul;9.2
