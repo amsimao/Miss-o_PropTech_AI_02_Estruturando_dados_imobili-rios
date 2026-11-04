@@ -3,7 +3,6 @@ Resolvendo a atividade "Missão PropTech AI 02: Estruturando dados imobiliários
 
 Atividade:
 
-
 Sua missão:
 
 (1) Importe dos dados: (a) Acesse o sqliteonline.com; (b) faça o "importe" do arquivo ofertas_brutas.csv . O nome da tabela dos arquivos importados deve ser Ofertas.
@@ -32,5 +31,5 @@ Sua missão:
     (b) Liste os imóveis com preço entre 1000 e 4000 reais;
     (c) Liste os imóveis com mais de 2 quartos e área maior que 70 m2;
     (d) Liste os imóveis cujo bairro começa com a letra S;
-    (e) Liste os bairros, zona, preço de imóvel e o índice de segurança dos bairros; Dica: os dados estão em mais de uma tabela
+    (e) Liste os bairros, zona, preço de imóvel e o índice de segurança dos bairros; 
  
